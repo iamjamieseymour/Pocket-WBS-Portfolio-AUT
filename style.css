@@ -1,0 +1,93 @@
+html {
+	background-image: url("background.png");
+	background-attachment: fixed;
+}
+h1 {
+	margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+	text-align: center;
+	font-size: 28;
+}
+#navigation_bar ul {
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#navigation_bar ul li a:link, a:visited {
+    margin-left: auto;
+    margin-right: auto;
+	display: block;
+	border: #000000 solid thin;
+    width: 180px;
+	font-family: Calibri, Times, serif;
+    color: #000000;
+    background-color: #00FFFF;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#navigation_bar ul li {
+	display: inline-block;
+	margin-left: auto;
+    margin-right: auto;
+	margin: 0;
+    padding: 0;
+}
+#page_content ul a{
+    font-family: Arial, calibri, Times;
+    font-size: 20;
+    color: black;
+}
+#page_content ul li{
+
+}
+#navigation_bar ul li a:hover{
+    margin-left: auto;
+    margin-right: auto;
+	background-color: #FFFF00;
+}
+#navigation_bar ul li a:active {
+	margin-left: auto;
+    margin-right: auto;
+	background-color: #00FF00;
+}
+h1 {
+	color: black;
+	font-size: 40;
+	font-family: "Century Gothic", Arial, Times;
+	font-weight: bold;
+   -webkit-text-fill-color: green;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
+p {
+	margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+	font-size: 18;
+}
+h2 {
+	margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+h3 {
+	margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+h4 {
+	margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+img {
+	margin-left: auto;
+    margin-right: auto;
+}
